@@ -10,7 +10,7 @@ http://127.0.0.1/MetInfo5.3/admin/index.php?n=content&c=article_admin&a=doindex&
 ```
 ![](http://i.imgur.com/8IWwsyG.png)
 
-#CSRF-1
+# CSRF-1
 
 MetInfo5.3 application is vulnerable to Cross-Site Request Forgery (CSRF) vulnerability. A successful CSRF attack can force the administrator to add an malicious online customer service.
 
@@ -45,7 +45,7 @@ After the attack:
 Display on the home page:
 ![](http://i.imgur.com/bbW2wG1.png)
 
-#CSRF-2
+# CSRF-2
 
 MetInfo5.3 application is vulnerable to Cross-Site Request Forgery (CSRF) vulnerability. A successful CSRF attack can force the administrator to add a member with specialized username and password.
 
