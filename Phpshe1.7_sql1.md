@@ -27,7 +27,7 @@ Using sqlmap：
 ![](https://github.com/lemon666/image/blob/master/3.png)
 the lines of code where the vulnerability exist：
 module/admin/cashout.php
-![](https://github.com/lemon666/image/blob/master/4.png
+![](https://github.com/lemon666/image/blob/master/4.png)
 
 # SQL2
 
